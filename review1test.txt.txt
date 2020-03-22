@@ -1,0 +1,2 @@
+To commit, provide a meaningful message like “main document and ignoring
+matching build product” as seen in the figure below and then click the “Commit” 
